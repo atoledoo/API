@@ -1,6 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - 5º Semestre
-
-Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
+# Aprendizado por Projeto Integrado (API) - 5º Semestre 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
@@ -44,17 +42,14 @@ Futuramente
 >Colocar aqui uma imagem da equipe com a logo do grupo.
 ![](https://github.com/atoledoo/API/blob/f937a8ba0ab483aef9367c9ce13004d55505ea40/Sprint%201/imagem/equipe.jpg)
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
-</p>
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+Este projeto tem como objetivo sugerir melhorias a fim de alavancar as vendas da empresa comercial Hertz Eletrônica.
 
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
->Descrever aqui o que foi entregue na sprint
+Nesta primeira Sprint, nós da Equipe Eagle, apresentamos ao nosso cliente uma análise de SWOT, desenvolvida com a finalidade de identificarmos as oportunidades nas quais iremos nos aprofundar como sugestões de melhorias nas próximas sprints. 
 >Colocar o vídeo da apresentação
 
 <p align="center">

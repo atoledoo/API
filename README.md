@@ -42,7 +42,7 @@ Futuramente
 
 # Equipe
 >Colocar aqui uma imagem da equipe com a logo do grupo.
-![https://github.com/atoledoo/API/blob/f937a8ba0ab483aef9367c9ce13004d55505ea40/Sprint%201/imagem/equipe.jpg](permalink)
+![](https://github.com/atoledoo/API/blob/f937a8ba0ab483aef9367c9ce13004d55505ea40/Sprint%201/imagem/equipe.jpg)
 
 <p align="center">
  <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>

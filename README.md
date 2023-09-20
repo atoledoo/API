@@ -49,7 +49,7 @@ Este projeto tem como objetivo sugerir melhorias a fim de alavancar as vendas da
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-Nesta primeira Sprint, nós da Equipe Eagle, apresentamos ao nosso cliente uma análise de SWOT, desenvolvida com a finalidade de identificarmos as oportunidades nas quais iremos nos aprofundar como sugestões de melhorias nas próximas sprints. 
+Nesta primeira Sprint, nós da Equipe Eagle, apresentamos ao nosso cliente uma análise de SWOT, desenvolvida com a finalidade de identificarmos as oportunidades nas quais iremos nos aprofundar como sugestões de melhorias nas próximas sprints, foi proposto também algumas perspectivas e ferramentas para a ajuda e desenvolvimento do projeto. 
 >Colocar o vídeo da apresentação
 
 <p align="center">
